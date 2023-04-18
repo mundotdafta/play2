@@ -1,80 +1,552 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Alerta Aeropuerto HD
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png",Cine TV: Sr Cine Zombies HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/69259.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto HD
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/327729.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Alerta Aeropuerto SD
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto SD
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/323271.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 ALF SD
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 ALF SD
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26587.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Angry Birds Toons
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25148.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Cantinflas Parte 1 (18 Peliculas)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24889.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Cantinflas Parte 2 (19 Peliculas)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25122.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Capitan America y Los Planetarios
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25138.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Dragon Ball (Vers Extendida)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25134.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Dragon Ball GT
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25176.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Dragon Ball Z Cell
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25225.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Dragon Ball Z Freezer
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25222.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Dragon Ball Z Los Saiyajin
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25175.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Dragon Ball Z Majin Boo
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26152.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 El Chavo del 8
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24888.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 El Zorro SD (1956)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40813.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 La Pantera Rosa
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24674.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40858.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons Noche de Brujas FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/86124.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons Noche de Brujas HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/86123.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons Noche de Brujas SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24602.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons Temp 11-15
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102703.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons Temp 1-5
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24661.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Los Simpsons Temp 6-10
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102338.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Pinguinos de Madagascar
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/27258.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Tom Y Jerry
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25140.ts
+
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Tom Y Jerry Kids
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25141.ts
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Angry Birds Toons
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25148.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Cantinflas Parte 1 (18 Peliculas)
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24889.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Cantinflas Parte 2 (19 Peliculas)
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25122.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Capitan America y Los Planetarios
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25138.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Dragon Ball (Vers Extendida)
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25134.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Dragon Ball GT
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25176.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Dragon Ball Z Cell
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25225.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Dragon Ball Z Freezer
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25222.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Dragon Ball Z Los Saiyajin
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25175.ts
-
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Dragon Ball Z Majin Boo
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26152.ts
-
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 El Chavo del 8
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24888.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 El Zorro SD (1956)
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40813.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Lo Mejor de Videomatch
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/101927.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 La Pantera Rosa
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24674.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/A24.png",ARG: A24 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/256.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40858.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/749px-Logotipo_de_America_TV.svg.png",ARG: America TV HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/257.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons Noche de Brujas FHD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/86124.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/C5N.png",ARG: C5N HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/254.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons Noche de Brujas HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/86123.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Cine_Ar.png",ARG: Cine AR SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25185.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons Noche de Brujas SD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24602.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Cr%c3%b3nica_TV.png",ARG: Cronica TV HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/274.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons Temp 11-15
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102703.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.net:8080/images/961303a0f25a15bdd511a0dc45228aa0.png",ARG: El Nueve FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/262.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons Temp 1-5
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24661.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.net:8080/images/961303a0f25a15bdd511a0dc45228aa0.png",ARG: El Nueve HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/261.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Los Simpsons Temp 6-10
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102338.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.net:8080/images/2f327632df3546a4f5e0ca659c99cfc2.png",ARG: El trece HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/265.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Pinguinos de Madagascar
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/27258.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",ARG: LN+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/126043.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Tom Y Jerry
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25140.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png",ARG: Magazine SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/60416.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="http://swedtv.vip/logos/otros/24_7.png",24/7 Tom Y Jerry Kids
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25141.ts
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Quiero_musica_SD.png",ARG: Quiero Musica SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25189.ts
 
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Telefe.png",ARG: Telefe FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/263.ts
+
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Telemax.png",ARG: Telemax
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/41368.ts
+
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TV_Publica.png",ARG: Television Publica FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/260.ts
+
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/Televisi%c3%b3n_P%c3%bablica_Argentina.png",ARG: Television Publica HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25183.ts
+
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/todo_noticia_TN.png",ARG: Todo Noticias TN FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/112802.ts
+
+#EXTINF:-1 group-title="LAT - Argentina" tvg-logo="http://swedtv.vip/logos/Argentina/Argentina/todo_noticia_TN.png",ARG: Todo Noticias TN HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25194.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/au/AandE.au.png",Cine TV: A&E (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24094.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/AMC.png",Cine TV: AMC (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24090.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/AXN.mx.png",Cine TV: AXN (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24092.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/AXN.mx.png",Cine TV: AXN HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32181.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/CineLatino.mx.png",Cine TV: Cine Latino
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1817.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png",Cine TV: Cinecanal (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1816.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png",Cine TV: Cinecanal (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32216.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png",Cine TV: Cinecanal Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32215.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/co/CanalDHE.co.png",Cine TV: DHE Full HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1838.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/Golden.mx.png",Cine TV: Golden
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1797.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/Golden.mx.png",Cine TV: Golden (MOVIL)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/65728.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png",Cine TV: Golden Edge (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24126.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/Golden.mx.png",Cine TV: Golden Full HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1867.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/GOLDEN_PLUS.png",Cine TV: Golden Plus (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24127.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png",Cine TV: Golden Plus Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24128.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Golden_Premier.png",Cine TV: Golden Premier
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1798.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/mx/HBO2.mx.png",Cine TV: HBO 2 Full HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1858.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/HBO_HD.png",Cine TV: HBO FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/9753.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/HBO_HD.png",Cine TV: HBO Full HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1856.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/HBO_Mundi.png",Cine TV: HBO Mundi (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1807.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/HBO_Plus.png",Cine TV: HBO Plus FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1855.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/br/HBOSignature.br.png",Cine TV: HBO Signature
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1803.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://titanicos.net:8080/images/67b5430b80be3d73e276868679d50e1d.png",Cine TV: HBO Subtitulado Full HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1853.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Space.png",Cine TV: Space (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/4004.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Star_Channel.png",Cine TV: Star Channel (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24124.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Star_Channel.png",Cine TV: Star Channel Full HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1841.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Star_Channel.png",Cine TV: Star Channel Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24125.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Studio_Universal.png",Cine TV: Studio Universal Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24122.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Syfy.png",Cine TV: SyFy (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26622.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/ar/TCM.ar.png",Cine TV: TCM
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1832.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/ar/TNT.ar.png",Cine TV: TNT (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1810.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/ar/TNT.ar.png",Cine TV: TNT Full HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1864.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/ar/TNT.ar.png",Cine TV: TNT Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24132.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/TNT_Tv.png",Cine TV: TNT HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32320.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/TNT_Series.png",Cine TV: TNT Series (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1811.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/br/TNTSeries.br.png",Cine TV: TNT Series (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24133.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/TNT_Series.png",Cine TV: TNT Series Full HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1865.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/ph/UniversalChannel.ph.png",Cine TV: Universal Channel (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1812.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://static.epg.best/ph/UniversalChannel.ph.png",Cine TV: Universal Channel (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24119.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Universal_Cinema.png",Cine TV: Universal Cinema SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/313692.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png",Cine TV: Universal Crime FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/313691.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Universal_Premiere.png",Cine TV: Universal Premiere FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/313685.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/UNIVERSAL_REALITY.png",Cine TV: Universal Reality SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/313687.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Warner_Channel.png",Cine TV: Warner Channel (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24635.ts
+
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Warner_Channel.png",Cine TV: Warner Channel Full HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/119658.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://www.babytv.com/app/uploads/2019/12/Babytvs-World_3d_1Small.png",Infantil: Baby TV HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/234174.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://w7.pngwing.com/pngs/1020/812/png-transparent-boomerang-logo-bumper-cartoonito-boomerang-logo-blue-text-trademark.png",Infantil: Boomerang Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7352.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png",Infantil: Cartoon Network (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1789.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png",Infantil: Cartoon Network HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7345.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png",Infantil: Cartoon Network SD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/994.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png",Infantil: Discovery Kids (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1790.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/tr/DisneyChannel.tr.png",Infantil: Disney Channel HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7348.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://w7.pngwing.com/pngs/223/1022/png-transparent-disney-channel-television-show-television-channel-the-walt-disney-company-pixel-disney-television-blue-text.png",Infantil: Disney Channel Full HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1781.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/br/DisneyJunior.br.png",Infantil: Disney Junior Full HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7356.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/br/NatGeoKids.br.png",Infantil: Nat Geo Kids (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1784.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png",Infantil: Nick Jr FHD (ARG)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115728.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png",Infantil: Nick Jr HD (ARG)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115727.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png",Infantil: Discovery Kids HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1782.ts
+
+#EXTINF:-1 group-title="LAT - Infantil" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png",Infantil: Nickelodeon HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7359.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png",LAT: Animal Planet HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/112991.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png",LAT: Discovery Channel FHD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/4568.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png",LAT: Discovery Channel FHD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7089.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Familia.png",LAT: Discovery Familia HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/27243.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png",LAT: Discovery H&H FHD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7094.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png",LAT: Discovery H&H HD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32257.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png",LAT: Discovery H&H HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/127266.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png",LAT: Discovery H&H HD (PY) (h265)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40837.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png",LAT: Discovery Theater HD (PY) (h265)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40841.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png",LAT: Discovery Turbo HD (PY) (h265)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40843.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png",LAT: Investigation Discovery FHD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7088.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png",LAT: Investigation Discovery HD (PY) (h265)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40833.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png",LAT: NatGeo FHD (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/4575.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png",LAT: NatGeo FHD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7093.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png",LAT: NatGeo HD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/127267.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png",LAT: NatGeo HD (PY) (h265)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/40838.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png",LAT: TLC (CO)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/2010.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/b4fa2675c20e632299577e2a7e5dc184.png",SP: ARG: Directv Sports + HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/103065.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/2ea156dba5886e33c0a461a41cb86c28.png",SP: ARG: Directv Sports 1 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26524.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/dd9218fd8294a7dcc2f40a15eccfff7e.png",SP: ARG: Directv Sports 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/103064.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/4b91b95e2dde6009b81b5066503793b3.png",SP: ARG: ESPN 1 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115725.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/3c93fb744bcc922a140725b2bac6df0a.png",SP: ARG: ESPN 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31814.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png",SP: ARG: ESPN 3 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31815.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",SP: ARG: ESPN 4
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/305906.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",SP: ARG: ESPN 4 SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/308136.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.vip/logos/Argentina_deportes/Espn_extra.png",SP: ARG: ESPN Extra FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31810.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",SP: ARG: ESPN Premium FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/69258.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",SP: ARG: ESPN Premium HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32331.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",SP: ARG: ESPN Premium SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233836.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/140dd0e0875d9960b3347d7894d5f38e.png",SP: ARG: Fox Sports 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26533.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.vip/logos/Argentina_deportes/FOX_Sports.png",SP: ARG: Fox Sports HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26531.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",SP: ARG: TNT Sports HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26530.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",SP: ARG: TNT Sports SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233835.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.vip/logos/Argentina_deportes/tyc_sports%20internacional.png",SP: ARG: TyC Sports Internacional HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1903.ts
+
+#EXTINF:-1 group-title="LAT - Argentina Deportes ⚽" tvg-logo="http://swedtv.net:8080/images/6d5f8effa62fdde97d06d6aa9f8fcff3.png",SP: ARG: TyC Sports Internacional SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/233945.ts
+
+#EXTINF:-1 group-title="LAT - Entretenimiento" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png",LAT: TLC FHD (MX)
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/7102.ts
+
+#EXTINF:-1 ,SP: Conmebol TV 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/309451.ts
+
+#EXTINF:-1 ,SP: Conmebol TV 5 FHD PREMIUM
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/309460.ts
+
+#EXTINF:-1 ,SP: Conmebol TV Libertadores 4:
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/309469.ts
+
+#EXTINF:-1 ,SP: Conmebol TV Sudamericana 1:
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/309476.ts
+
+#EXTINF:-1 ,SP: Conmebol TV Sudamericana 2:
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/309477.ts
+
+#EXTINF:-1 ,SP: Conmebol TV Sudamericana 4:
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/309479.ts
+
+#EXTINF:-1 ,SP: Copa Libertadores: Bein Sports N HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232231.ts
+
+#EXTINF:-1 ,SP: Copa Libertadores: ESPN 2 HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232230.ts
+
+#EXTINF:-1 ,SP: Copa Libertadores: ESPN HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232229.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora.png",UY: 1000 x Hora Tv
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1582.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://iconape.com/wp-content/png_logo_vector/anpi-logo.png",UY: ANPI TV San Ramon
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102342.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://pbs.twimg.com/profile_images/1788318858/LOGO_ARTIFGAS_TV_400x400.png",UY: Artigas Television
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1584.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/uruguay-logo-png-transparent.png",UY: Cámara de Representantes
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102344.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png",UY: Canal 10  HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102361.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://www.kindpng.com/picc/m/618-6181877_canal-10-hd-png-download.png",UY: Canal 10 FHD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24670.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal11.png",UY: Canal 11 Las Piedras
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102357.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png",UY: Canal 12 Melo
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1586.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://1.bp.blogspot.com/-wOTAthBnrsE/YTo4poUvRXI/AAAAAAAAQhE/dZ4NBh8vLt09yy4MlUq6KIhy5uJ92IVOACLcBGAsYHQ/w700-h400-p-k-no-nu/canal-2-hd-san-carlos-en-vivo_optimized.png",UY: Canal 2 San Carlos
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1588.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-vision-canaria.png",UY: Canal 2 Visión Canaria
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102352.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://swedtv.vip/logos/Uruguay/Canal_4.png",UY: Canal 4
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25150.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-4-nicaragua-logo.png",UY: Canal 4 HD Treinta y Tres
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102349.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://swedtv.vip/logos/Uruguay/Canal_4.png",UY: Canal 4 Juan Lacaze
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102356.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-4-nicaragua-logo.png",UY: Canal 4 Salto
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1591.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/1024x1024.png",UY: Canal 5 TNU SD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/207025.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal6uruguay.png",UY: Canal 6 Durazno
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1592.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-7-punta-del-este-1543.png",UY: Canal 7 Punta HD
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/32987.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/ochotv.png",UY: Canal 8 Durazno
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102354.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://cable8.com.uy/wp-content/uploads/2021/02/cropped-8digital.png",UY: Canal 8 Rocha
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102350.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-cropped-LOGO-9-HD-carta.png",UY: Canal 9 TeleRocha
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102346.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png",UY: Canal-M
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1595.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://images.fanart.tv/fanart/cardinal-5c4efe14298aa.png",UY: Cardinal TV
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1596.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/el-canal-de-la-region.png",UY: El Canal de la Región - Noreste
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102351.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/ftc.png",UY: Florida television color
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1599.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png",UY: Global TV Uruguay
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/114180.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",UY: PPV 2
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/132134.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://www.inisa.gub.uy/images/logo_presidencia2.png",UY: Presidencia Uruguay
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1603.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yawuhu9eruw5.png",UY: Radio Miami Color Television
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/107154.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://seeklogo.com/images/R/rio-uruguay-logo-1EE023A7EF-seeklogo.com.png",UY: Rio Uruguay TV
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102358.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://noticiasrptv.com/wp-content/uploads/2021/10/noticias-rptv-logo-png.png",UY: RPTV
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/107153.ts
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="http://swedtv.vip/logos/Uruguay/TV_Ciudad.png",UY: TV Ciudad
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1605.ts
+
+
+
+#EXTINF:-1 group-title="LAT - Uruguay" tvg-logo="https://1.bp.blogspot.com/-OJhsZyidy4E/YTo_TRnKrfI/AAAAAAAAQi8/Pi7Ql7u74BcjV0I5X6wHrpaYW4a08BQMACLcBGAsYHQ/w350-h350-p-k-no-nu/cv10-en-vivo_optimized.png",UY: San Jose Ahora
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102353.ts
