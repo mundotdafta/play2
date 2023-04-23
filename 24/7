@@ -40,17 +40,17 @@ https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/57800/movieposter/ice-age-continental-drift-52a87aa5b3048.jpg",La Era de Hielo 4 (Op. 2)
 https://archive.org/download/hielo-4/Hielo4.mp4
 
-#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png",24/7 Alerta Aeropuerto
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto HD
-http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761036.ts
+http://dns.k4livetv.com:8080/JUAN23/1904/302604
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto SD
 http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761035.ts
 
-#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 ALF SD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26587.ts
+#EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto
+http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Angry Birds Toons
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25148.ts
