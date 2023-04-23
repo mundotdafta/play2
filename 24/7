@@ -1,5 +1,45 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kKpnCcf/Shrek.jpg",Shrek
+https://archive.org/download/00100_20190920/00100.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXy3RpY/Shrek-2.jpg",Shrek 2
+https://archive.org/download/00200_20190920/00200.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CswXbsZ/Shrek-3.jpg",Shrek 3
+https://archive.org/download/sh3_20200512/sh3.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdQFBRk/Shrek-4.jpg",Shrek 4
+https://archive.org/download/00400_20190920/00400.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQvqpzG/mi-villano-favorito.jpg",Mi villano favorito 1
+https://archive.org/download/v177aN0_1/infa/v177aN0_1.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZNqL1w/Mi-Villano-Favorito-2.jpg",Mi villano favorito 2
+https://archive.org/download/v177aN0_1/infa/v177aN0_2.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4dFnxW3/mi-villano-favorito-3.jpg",Mi villano favorito 3
+https://archive.org/download/v177aN0_1/infa/v177aN0_3.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJTZCNJ/La-era-de-hielo.jpg",La Era de Hielo
+https://archive.org/download/00100_20200108_2219/00100.avi
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/8355/movieposter/ice-age-dawn-of-the-dinosaurs-587a7b44dc235.jpg",La Era de Hielo 3 (Op .2)
+https://archive.org/download/hielo-4/Hielo3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPxN9st/Kung-Fu-Panda.jpg",Kung Fu Panda (2008)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback001.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QMcy429/Kung-Fu-Panda-2.jpg",Kung Fu Panda 2 (2011)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1TqPG4x/Kung-Fu-Panda-3.jpg",Kung Fu Panda 3 (2016)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/57800/movieposter/ice-age-continental-drift-52a87aa5b3048.jpg",La Era de Hielo 4 (Op. 2)
+https://archive.org/download/hielo-4/Hielo4.mp4
+
 #EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png",Cine TV: Sr Cine Zombies HD
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/69259.ts
 
