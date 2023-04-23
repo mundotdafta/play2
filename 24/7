@@ -40,14 +40,14 @@ https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/57800/movieposter/ice-age-continental-drift-52a87aa5b3048.jpg",La Era de Hielo 4 (Op. 2)
 https://archive.org/download/hielo-4/Hielo4.mp4
 
-#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png",Cine TV: Sr Cine Zombies HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/69259.ts
+#EXTINF:-1 group-title="LAT - Cine TV" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png",24/7 Alerta Aeropuerto
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto HD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/327729.ts
+http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761036.ts
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto SD
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/323271.ts
+http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761035.ts
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 ALF SD
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26587.ts
@@ -113,7 +113,7 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24661.ts
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/102338.ts
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Pinguinos de Madagascar
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/27258.ts
+http://hidra.live:80/yhehteog/NeN02o7t1o/50628
 
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Tom Y Jerry
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/25140.ts
