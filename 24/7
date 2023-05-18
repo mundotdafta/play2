@@ -63,272 +63,31 @@ http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761035.ts
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto
 http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 26" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b054195fa6a26e0e0f146374f2fbe5fc.png" group-title="Argentina",ARG: Canal 26
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3190
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal de la Ciudad" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bbf93646059c526e6d643ca7c9109845.png" group-title="Argentina",ARG: Canal de la Ciudad
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/62760
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b7326b8795e4f9e84e08a6d890cc598f.png" group-title="Argentina",ARG: C5N
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3191
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b7326b8795e4f9e84e08a6d890cc598f.png",ARG: C5N
+http://45.143.222.41:8080/dooby1312/b244f7ab/3191
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3b46901b9409438023136d84a6797373.png" group-title="Argentina",ARG: A&E
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38648
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12d03d3b0c1ee223bbef7afff54f99bd.png",ARG: Cronica TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/8763
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1b1a1e85ea09acd758763a34b0316689.png" group-title="Argentina",ARG: A24
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3197
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b054195fa6a26e0e0f146374f2fbe5fc.png",ARG: Canal 26
+http://45.143.222.41:8080/dooby1312/b244f7ab/3190
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b75ee58326fe152aa93a4bddf26c78e5.png" group-title="Argentina",ARG: America TV
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49245
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: TNT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1c784499290e4dbff27fcead96e314d.png" group-title="Latino",LA: TNT
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3089
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f271d835769593137772c34a9853f739.png" group-title="Latino",LA: TNT Series
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/285147
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png" group-title="Latino",LA: TNT Sports
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/285164
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Cine AR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9031fa76e842682d6b61c223a3202398.png" group-title="Argentina",ARG: Cine AR
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38652
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinecanal" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d3f69eaf959038a3e7107518e6c5a6e6.png" group-title="Argentina",ARG: Cinecanal
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38655
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4094c04397c5d1ead102ff5913c3a950.png" group-title="Argentina",ARG: Cinemax
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38661
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Ciudad Magazine" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/155330a2242c544c7bb1967c695f9f8d.png" group-title="Argentina",ARG: Ciudad Magazine
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38663
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/727d1df5cf145f20b05ce03c8f71429c.png" group-title="Argentina",ARG: Comedy Central
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49261
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12d03d3b0c1ee223bbef7afff54f99bd.png" group-title="Argentina",ARG: Cronica TV
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8763
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DeporTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/49408e03e41a829bcd546140ad92930d.jpg" group-title="Argentina",ARG: DeporTV
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38664
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png" group-title="Argentina",ARG: DirecTV Sports
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/67721
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="Argentina",ARG: DirecTV Sports 2
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/31645
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="Argentina",ARG: DirecTV Sports+
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/65750
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery Theater" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1d2a567812c05aa587d88f49ead9e213.png" group-title="Argentina",ARG: Discovery Theater
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/172605
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3bb6ecc1567af22c930a6043f83abdf0.png" group-title="Argentina",ARG: Disney Channel
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49266
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d8ed293e6e5c3e34b781e0c94719a39f.png" group-title="Argentina",ARG: Disney Junior
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38665
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7754c8086fc28e5281feaa1ad81c70ae.png" group-title="Argentina",ARG: Disney XD
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38667
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0691c65eba09e3a371dd85faf04a6d.png" group-title="Argentina",ARG: El Gourmet
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8691
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d45e05543beedc3ea5bf9f26012ef4dc.png" group-title="Argentina",ARG: El Nueve
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3202
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Trece" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/70250fba7869925f4921f37dcb3e3d90.png" group-title="Argentina",ARG: El Trece
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3194
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Eltres" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0140163f0b0f2541ca1b70b9dfd7bac9.jpg" group-title="Argentina",ARG: Eltres
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/285882
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Encuentro" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1ed1a25547e7f6b4224c7189f1e79984.png" group-title="Argentina",ARG: Encuentro
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/30694
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="Argentina",ARG: ESPN
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/61174
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="Argentina",ARG: ESPN 2
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/70752
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="Argentina",ARG: ESPN 3
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/61170
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="Argentina",ARG: ESPN 4
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/295627
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Argentina",ARG: ESPN Extra
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/66298
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Argentina",ARG: ESPN Premium
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/298158
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png" group-title="Argentina",ARG: FOX SPORTS
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/280370
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png" group-title="Argentina",ARG: FOX SPORTS 2
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3187
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png" group-title="Argentina",ARG: FOX SPORTS 3
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/10921
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LN+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ad3ae8ea2a57ba8e4010a3cf5026e38c.png" group-title="Argentina",ARG: LN+
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8758
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f7703cdc820fdff72dcc60f1a560ef84.png" group-title="Argentina",ARG: NAT GEO Kids
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38697
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png" group-title="Argentina",ARG: NAT GEO Wild
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38698
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Quiero Musica en mi Idioma" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ff28f1cb799d59ce60f78e37921f76ea.png" group-title="Argentina",ARG: Quiero Musica 
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/30699
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Space" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d968760dc7fc9a895c6f2b356bf649a9.png" group-title="Argentina",ARG: Space
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/34566
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Studio Universal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ed8222e5bac9ba10f9b1f2d5b2fe4ae4.png" group-title="Argentina",ARG: Studio Universal
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/280367
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e6401d2f80b1258f21dc0aa489f13b98.png" group-title="Argentina",ARG: SYFY
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49316
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/10f6c9721083bb8bec43d163bc5d791a.png" group-title="Argentina",ARG: TCM
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49314
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eb9362ea0d5367005473c800f29a566d.png" group-title="Argentina",ARG: Telefe
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3199
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/49181ded70802b624b64bf409cd4b76c.png" group-title="Argentina",ARG: TNT
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38720
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/341e2bd93b5fa0d6897a9f0f538f2c1d.png" group-title="Argentina",ARG: TNT Series
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3109
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png" group-title="Argentina",ARG: TNT Sports
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3204
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7b8105d8ff6faab8fe9ba38744cfc995.png" group-title="Argentina",ARG: Todo Noticias
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/146052
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TyC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TyC Sports
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8749
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Universal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/84759c64da660ef9ac51ec981b19c1b9.png" group-title="Argentina",ARG: Universal TV
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/38719
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Volver" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/45b0147ecb60e68db94b6ccceb75ff9f.png" group-title="Argentina",ARG: Volver
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49329
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Star Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/9db2145ad118d169f5b425e50e3af268.png" group-title="Latino",LA: Star Channel
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/5785
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04e8a37535a0c55f5ca45ab0a15854a7.png" group-title="Latino",LA: NAT GEO
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3073
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO Mundo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png" group-title="Latino",LA: NAT GEO Mundo
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/267311
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6571f8f4e51ded8b78e6028593640aee.png" group-title="Latino",LA: NAT GEO Wild
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8745
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/68f41e0e8b015d7d74e0d0f1e3180427.png" group-title="Latino",LA: History
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3060
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: History 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f312a5eaab500124303d9376e9144d7.png" group-title="Latino",LA: History 2
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/40831
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png" group-title="Latino",LA: HBO
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3055
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png" group-title="Latino",LA: HBO 2
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3056
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png" group-title="Latino",LA: HBO Family
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3057
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Mundi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png" group-title="Latino",LA: HBO Mundi
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/226015
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Pop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b59523ce06a7f337e3ec3644f2fbefbd.png" group-title="Latino",LA: HBO Pop
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3069
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png" group-title="Latino",LA: HBO Signature
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3059
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Xtreme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png" group-title="Latino",LA: HBO Xtreme
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/148927
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png" group-title="Latino",LA: HBO+
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3058
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery H&H" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b90c9be7c62f1c98d310fd21ad627936.png" group-title="Latino",LA: Discovery H&H
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/5774
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5d8a6d0bd0c1237d56625cb92cdde342.png" group-title="Latino",LA: Discovery Kids
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3020
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cac3f9679cec1213b995216d207a4c44.png" group-title="Latino",LA: Discovery Science
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3021
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Theater" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4cf41989812d63a1b5bc1e488ad447e.png" group-title="Latino",LA: Discovery Theater
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3022
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Turbo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb8e49ac28ac142eb2f1585fdb3f701e.png" group-title="Latino",LA: Discovery Turbo
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3023
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="Latino",LA: Discovery World
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8894
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eeb06c226acc25e1495ef0f80d0533f4.png" group-title="Latino",LA: Disney Channel
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3025
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf8964d602d9e1b26bab23889ee6677a.png" group-title="Latino",LA: Disney Junior
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3026
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="Latino",LA: Cartoon Network
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3007
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinecanal" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/51394b224ae7b9c8e48906e55a4149cc.jpg" group-title="Latino",LA: Cinecanal
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/49452
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="Latino",LA: ESPN
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/5779
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png" group-title="Latino",LA: ESPN 2
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3031
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png" group-title="Latino",LA: ESPN 3
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3032
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg" group-title="Latino",LA: ESPN 4
-http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/295304
-
-
-
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f28ac55af167808287b218fc82ccc325.png",ARG: 24/7 Canal de Noticias
-http://45.143.222.41:8080/dooby1312/b244f7ab/285870
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d780ee45b019e3b33b31ea5425b87873.png",ARG: 5 RTV
-http://45.143.222.41:8080/dooby1312/b244f7ab/285871
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0a6920ea4e4060bfd4c88ad13e86af12.png",ARG: 5TV Corrientes
-http://45.143.222.41:8080/dooby1312/b244f7ab/285872
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3b46901b9409438023136d84a6797373.png",ARG: A&E
-http://45.143.222.41:8080/dooby1312/b244f7ab/38648
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7b8105d8ff6faab8fe9ba38744cfc995.png",ARG: Todo Noticias
+http://45.143.222.41:8080/dooby1312/b244f7ab/146052
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1b1a1e85ea09acd758763a34b0316689.png",ARG: A24
 http://45.143.222.41:8080/dooby1312/b244f7ab/3197
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7869eca9586b44e92468ac2235338af9.png",ARG: AMC
-http://45.143.222.41:8080/dooby1312/b244f7ab/38654
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b75ee58326fe152aa93a4bddf26c78e5.png",ARG: America TV
 http://45.143.222.41:8080/dooby1312/b244f7ab/49245
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/de8c1e41c7e880245088d5c5b748e02f.png",ARG: IP Noticias
+http://45.143.222.41:8080/dooby1312/b244f7ab/297230
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7869eca9586b44e92468ac2235338af9.png",ARG: AMC
+http://45.143.222.41:8080/dooby1312/b244f7ab/38654
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b049025405f7c8647448045b7406a9c7.png",ARG: Argentinisima
 http://45.143.222.41:8080/dooby1312/b244f7ab/38659
@@ -339,56 +98,6 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/38649
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/72d79a9f0a7874c30f5c357bfcdfa7a1.png",ARG: Boomerang
 http://45.143.222.41:8080/dooby1312/b244f7ab/38657
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b7326b8795e4f9e84e08a6d890cc598f.png",ARG: C5N
-http://45.143.222.41:8080/dooby1312/b244f7ab/3191
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/db9144de7a55baa350009b5fa8baeba6.png",ARG: Canal 10 Córdoba
-http://45.143.222.41:8080/dooby1312/b244f7ab/54280
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4716ae79a8a14d588da958046320661e.png",ARG: Canal 10 Rio Negro
-http://45.143.222.41:8080/dooby1312/b244f7ab/285877
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/e8fc640f909f994147836d0428e65872.png",ARG: Canal 11 La Rioja
-http://45.143.222.41:8080/dooby1312/b244f7ab/285878
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/55af06f2c240537cae0a2807cebc0a44.png",ARG: Canal 12 Puerto Madryn
-http://45.143.222.41:8080/dooby1312/b244f7ab/285879
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/7d407c5e81e5cdd4f0e4041eb8c3ff0a.png",ARG: Canal 13 La Rioja
-http://45.143.222.41:8080/dooby1312/b244f7ab/285880
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/555d941edf54ad4c91776cb4a75dd058.png",ARG: Canal 2 Jujuy
-http://45.143.222.41:8080/dooby1312/b244f7ab/285881
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b054195fa6a26e0e0f146374f2fbe5fc.png",ARG: Canal 26
-http://45.143.222.41:8080/dooby1312/b244f7ab/3190
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Canal 6 Noticias
-http://45.143.222.41:8080/dooby1312/b244f7ab/284235
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Canal 79 Catamarca
-http://45.143.222.41:8080/dooby1312/b244f7ab/297240
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Canal 79 Mar del Plata
-http://45.143.222.41:8080/dooby1312/b244f7ab/297239
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Canal 79 San Juan
-http://45.143.222.41:8080/dooby1312/b244f7ab/297235
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/58eb9090c2c64aeb8c79bd3bc49ebab1.png",ARG: canal orbe 21
-http://45.143.222.41:8080/dooby1312/b244f7ab/9374
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/08340607a0b344874cb92a2dc3a242e8.jpeg",ARG: Canal Provincial
-http://45.143.222.41:8080/dooby1312/b244f7ab/285888
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ee18e7e604f6e4b610f43f141472b9f8.png",ARG: Canal TDC
-http://45.143.222.41:8080/dooby1312/b244f7ab/285874
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c59f4fd00eaddf3861321dd65b63720f.png",ARG: Chaco TV
-http://45.143.222.41:8080/dooby1312/b244f7ab/166055
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/5997c99039827dd5ed5d64591386f1e9.jpg",ARG: Chacra TV
-http://45.143.222.41:8080/dooby1312/b244f7ab/285890
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9031fa76e842682d6b61c223a3202398.png",ARG: Cine AR
 http://45.143.222.41:8080/dooby1312/b244f7ab/38652
 
@@ -398,14 +107,8 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/38661
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/155330a2242c544c7bb1967c695f9f8d.png",ARG: Ciudad Magazine
 http://45.143.222.41:8080/dooby1312/b244f7ab/38663
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/18343c0fb661dfdb0276d32324b92f4a.jpeg",ARG: Ciudad TV Chaco
-http://45.143.222.41:8080/dooby1312/b244f7ab/285892
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/727d1df5cf145f20b05ce03c8f71429c.png",ARG: Comedy Central
 http://45.143.222.41:8080/dooby1312/b244f7ab/49261
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12d03d3b0c1ee223bbef7afff54f99bd.png",ARG: Cronica TV
-http://45.143.222.41:8080/dooby1312/b244f7ab/8763
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f2c06a648c0e1dbb9d3d3a24f53204e5.png",ARG: DeporTV
 http://45.143.222.41:8080/dooby1312/b244f7ab/38664
@@ -464,9 +167,6 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/66298
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg",ARG: ESPN Premium
 http://45.143.222.41:8080/dooby1312/b244f7ab/298158
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Fenix TV
-http://45.143.222.41:8080/dooby1312/b244f7ab/285896
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23b7e450ea406743ae73a1b3545ff3b2.png",ARG: Film & Arts
 http://45.143.222.41:8080/dooby1312/b244f7ab/38678
 
@@ -509,17 +209,8 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/38685
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b1cb3b55d5c8d9b56725b77979b2563e.png",ARG: I Sat
 http://45.143.222.41:8080/dooby1312/b244f7ab/148593
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/de8c1e41c7e880245088d5c5b748e02f.png",ARG: IP Noticias
-http://45.143.222.41:8080/dooby1312/b244f7ab/297230
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d59da92c694d15e35e612ce8b8ec3a57.png",ARG: Litus
-http://45.143.222.41:8080/dooby1312/b244f7ab/23925
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ad3ae8ea2a57ba8e4010a3cf5026e38c.png",ARG: LN+
 http://45.143.222.41:8080/dooby1312/b244f7ab/8758
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1584c0b50af7e4f2df2ea768538f3713.png",ARG: Multivision
-http://45.143.222.41:8080/dooby1312/b244f7ab/18341
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/6fe09dc619130e59cd0b1001a8670921.png",ARG: Music Top
 http://45.143.222.41:8080/dooby1312/b244f7ab/199644
@@ -542,9 +233,6 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/49304
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ff28f1cb799d59ce60f78e37921f76ea.png",ARG: Quiero Musica en mi Idioma
 http://45.143.222.41:8080/dooby1312/b244f7ab/30699
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/aa3bdb7109cf72c07dc98ea8df806a78.jpeg",ARG: Santa Maria TV
-http://45.143.222.41:8080/dooby1312/b244f7ab/285904
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d968760dc7fc9a895c6f2b356bf649a9.png",ARG: Space
 http://45.143.222.41:8080/dooby1312/b244f7ab/34566
 
@@ -563,23 +251,14 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/3199
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e8961cb60584df08aeb4bcc7f3a3aae1.png",ARG: Telemax
 http://45.143.222.41:8080/dooby1312/b244f7ab/146051
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2d4a1972e7e6d6a552f1212518ed19bc.png",ARG: Telenord Corrientes
-http://45.143.222.41:8080/dooby1312/b244f7ab/285910
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/341e2bd93b5fa0d6897a9f0f538f2c1d.png",ARG: TNT Series
 http://45.143.222.41:8080/dooby1312/b244f7ab/3109
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png",ARG: TNT Sports
 http://45.143.222.41:8080/dooby1312/b244f7ab/3204
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7b8105d8ff6faab8fe9ba38744cfc995.png",ARG: Todo Noticias
-http://45.143.222.41:8080/dooby1312/b244f7ab/146052
-
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2d8e676fd2deada29d1f02f24973f0b1.svg",ARG: TV Publica
 http://45.143.222.41:8080/dooby1312/b244f7ab/8752
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/2944eb12703971252970de81de3351e4.png",ARG: TVU Universidad Nacional de La Plata
-http://45.143.222.41:8080/dooby1312/b244f7ab/285907
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png",ARG: TyC Sports
 http://45.143.222.41:8080/dooby1312/b244f7ab/8749
