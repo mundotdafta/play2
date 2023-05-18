@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Super Mario Bros: La película (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKpnCcf/Shrek.jpg",Shrek
 https://archive.org/download/00100_20190920/00100.avi
 
