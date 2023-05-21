@@ -63,5 +63,12 @@ http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761035.ts
 #EXTINF:-1 group-title="LAT - Canales 24H" tvg-logo="https://cdn-icons-png.flaticon.com/512/6179/6179075.png",24/7 Alerta Aeropuerto
 http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Supernatural (e)(720)" tvg-logo="http://castlempire.site:8080/images/af049a6e2ca043849fa281fa50c2f362.png" group-title="⭐️⭐️SUPER VIP- 24/7 ⭐️⭐️",24/7 VIP | Supernatural (e)(720)
+http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/71632
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | The Walking Dead (e)(720)" tvg-logo="http://castlempire.site:8080/images/7a615fd7cbd171d0768b3b22a8cc8adf.png" group-title="⭐️⭐️SUPER VIP- 24/7 ⭐️⭐️",24/7 VIP | The Walking Dead (e)(720)
+http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/71639
+
+
 
 
