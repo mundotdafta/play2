@@ -5,6 +5,11 @@
 https://res.cloudinary.com/dlin3bn2n/video/upload/v1685215087/iptv_argentina_t3tboz.mp4
 
 
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"group-title="24/7",🌐 Canal Te lo cuento 🇦🇷
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"group-title="24/7",🌐 Canal Xtremaanimal 🇦🇷
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Mentalista" tvg-logo="http://live.detodotvplay.com:25461/images/4f4adcbf8c6f66dcfc8a3282ac2bf10a.jpg" group-title="24/7",El Mentalista
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131692
