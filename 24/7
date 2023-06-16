@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png" group-title="24/7",Los Simpsons TV 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117797.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png" group-title="24/7",Los Simpsons TV 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/115359.ts
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxt97I9X_gcdj7a-QAwYrkSQfshvSbt8s2Q&usqp=CAU"group-title="TV",IPTV ARGENTINA PARA MUNDO
 https://res.cloudinary.com/dlin3bn2n/video/upload/v1685215087/iptv_argentina_t3tboz.mp4
 
