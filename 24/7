@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-MuNi1fh615w/X-9qrYldbxI/AAAAAAAA7Fs/WwZsrrXCnfs6gtvdDFZVr4YFd4imaXcIgCLcBGAsYHQ/s1080/ez.png",24/7 : EL ZORRO
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87422.ts
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-Lyk8Me-0w4c/X-9p-CGo0RI/AAAAAAAA7Dw/BSNDlOsFpqYTvdEXA23rXUUWoDwdIxtawCLcBGAsYHQ/s320/al.png",24/7 : ALERTA AEROPUERTO
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65615.ts
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-vcEGN1a1xYI/X-9qAlME1bI/AAAAAAAA7D0/-tHFQQFasn82sP-PyldpDH0DD4xpuGMVQCLcBGAsYHQ/s320/alrm.png",24/7 : ALERTA MAXIMA
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65616.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png" group-title="24/7",Los Simpsons TV 1
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117797.ts
 
