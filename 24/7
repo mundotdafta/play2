@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="24/7" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/The-Walking-Dead-PNG-HD-Quality.png",24/7 twd dead city  c1
+https://ia802701.us.archive.org/31/items/twkd.-dead.-city.-s-01.-e-01.-www.-hackstore.-lat/TWKD.DEAD.CITY.S01.E01.Www.Hackstore.Lat.mp4
+
 #EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-MuNi1fh615w/X-9qrYldbxI/AAAAAAAA7Fs/WwZsrrXCnfs6gtvdDFZVr4YFd4imaXcIgCLcBGAsYHQ/s1080/ez.png",24/7 : EL ZORRO
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87422.ts
 
