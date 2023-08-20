@@ -122,8 +122,14 @@ http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/71632
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | The Walking Dead (e)(720)" tvg-logo="http://castlempire.site:8080/images/7a615fd7cbd171d0768b3b22a8cc8adf.png" group-title="⭐️⭐️SUPER VIP- 24/7 ⭐️⭐️",24/7 VIP | The Walking Dead (e)(720)
 http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/71639
 
-#EXTINF:-1 tvg-id="128dtv.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png", Encuentro
-https://vanguard.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/133-TheSimpsonsTV.png", Los Simpsons TV
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117797.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons TV 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/133-TheSimpsonsTV.png", Los Simpsons TV 2
+https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
+
+
 
 
 
